@@ -1,4 +1,4 @@
-# Primeiro Programa com IntelliJ
+# IntelliJ
 Conhecendo a IDE IntelliJ - DIO 
 
 Criando o Primeiro Programa
