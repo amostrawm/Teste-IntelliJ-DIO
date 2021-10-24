@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/primeiro-programa-intelij.iml" filepath="$PROJECT_DIR$/primeiro-programa-intelij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiro-programa-intellij.iml" filepath="$PROJECT_DIR$/primeiro-programa-intellij.iml" />
     </modules>
   </component>
 </project>
